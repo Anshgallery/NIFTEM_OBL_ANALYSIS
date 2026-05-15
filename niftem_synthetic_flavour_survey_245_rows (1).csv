@@ -1,0 +1,246 @@
+respondent_id,name,age,gender,location,respondent_type,age_group,best_milk_based_flavor,milk_rating,best_water_based,water_rating_10,sugar_preference,overall_experience_10,purchase_intent,feedback_theme
+NIFTEM-SYN-001,Ananya Deshmukh,56,Male,Gurugram,Visitor,51+,Mango,9.3,Blueberry,8.4,Sugar,8.8,High,Strong flavour recall
+NIFTEM-SYN-002,Lakshay Ghosh,23,Male,Lucknow,Student,21-25,Pista,7.7,Blueberry,9.6,Sugar,9.4,High,Good summer refreshment
+NIFTEM-SYN-003,Devansh Yadav,59,Male,Sonipat,Food Inspector,51+,Butterscotch,8.3,Orange,5.7,Non-sugar,7.3,Medium,Creamy mouthfeel
+NIFTEM-SYN-004,Lavanya Kulkarni,20,Male,Jaipur,Student,16-20,Rose,6.2,Lemon,7.9,Non-sugar,7.5,Medium,Premium taste perception
+NIFTEM-SYN-005,Harsh Menon,26,Female,Jaipur,Student,26-35,Butterscotch,7.8,Blueberry,6.9,Sugar,7.4,Medium,Good summer refreshment
+NIFTEM-SYN-006,Kabir Mehta,22,Male,Dehradun,Student,21-25,Mango,8.2,Fruit Beer,6.0,Sugar,7.2,Medium,Strong flavour recall
+NIFTEM-SYN-007,Ritika Bhardwaj,26,Female,Dehradun,Student,26-35,Butterscotch,8.9,Lemon,8.8,Sugar,8.4,High,Creamy mouthfeel
+NIFTEM-SYN-008,Harsh Chatterjee,22,Male,Patna,Student,21-25,Pista,6.6,Blueberry,8.2,Sugar,7.9,Medium,Balanced sweetness
+NIFTEM-SYN-009,Aarav Patel,55,Female,Meerut,Visitor,51+,Mango,8.3,Blueberry,7.9,Non-sugar,8.1,High,Strong flavour recall
+NIFTEM-SYN-010,Selin Novak,53,Male,Kathmandu,Visitor,51+,Mango,7.6,Lemon,10.0,Sugar,8.2,High,Balanced sweetness
+NIFTEM-SYN-011,Mira Berg,21,Male,Indore,Student,21-25,Butterscotch,9.8,Fruit Beer,6.1,Sugar,7.7,Medium,Strong flavour recall
+NIFTEM-SYN-012,Rohan Tiwari,21,Female,Jaipur,Student,21-25,Mango,7.6,Lemon,9.8,Sugar,8.9,High,Good summer refreshment
+NIFTEM-SYN-013,Elena Fernandez,24,Female,Bhopal,Student,21-25,Butterscotch,8.8,Blueberry,6.9,Sugar,7.9,Medium,Premium taste perception
+NIFTEM-SYN-014,Raghav Chauhan,19,Female,Ludhiana,Student,16-20,Rose,7.4,Lemon,9.0,Sugar,8.6,High,Balanced sweetness
+NIFTEM-SYN-015,Raghav Malhotra,42,Female,Patna,Visitor,36-50,Mango,8.7,Lemon,7.9,Non-sugar,8.0,High,Creamy mouthfeel
+NIFTEM-SYN-016,Aarav Khurana,49,Female,Ahmedabad,Visitor,36-50,Pista,8.1,Orange,6.6,Sugar,7.4,Medium,Balanced sweetness
+NIFTEM-SYN-017,Dhruv Chauhan,24,Female,Sonipat,Student,21-25,Butterscotch,6.8,Lemon,8.6,Non-sugar,7.8,Medium,Balanced sweetness
+NIFTEM-SYN-018,Simran Kohli,22,Female,Amritsar,Student,21-25,Butterscotch,8.6,Lemon,8.6,Sugar,9.1,High,Premium taste perception
+NIFTEM-SYN-019,Vedant Reddy,21,Male,Meerut,Student,21-25,Butterscotch,7.5,Lemon,8.4,Sugar,8.2,High,Good summer refreshment
+NIFTEM-SYN-020,Arjun Shekhawat,52,Female,Rohtak,Visitor,51+,Butterscotch,9.0,Orange,5.2,Sugar,6.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-021,Simran Agarwal,51,Female,Gurugram,Food Inspector,51+,Mango,8.1,Orange,7.5,Sugar,8.4,High,Premium taste perception
+NIFTEM-SYN-022,Sofia Moretti,22,Male,Colombo,Student,21-25,Butterscotch,7.5,Blueberry,8.7,Non-sugar,8.1,High,Good summer refreshment
+NIFTEM-SYN-023,Jiya Saini,20,Female,Gurugram,Student,16-20,Coffee,7.6,Fruit Beer,6.9,Sugar,7.0,Medium,Needs lighter sweetness
+NIFTEM-SYN-024,Theo Okafor,63,Male,Sydney,Visitor,51+,Rose,5.7,Jeera,8.3,Sugar,7.1,Medium,Creamy mouthfeel
+NIFTEM-SYN-025,Nadia Muller,20,Female,Nairobi,Student,16-20,Mango,7.9,Fruit Beer,7.9,Sugar,8.1,High,Creamy mouthfeel
+NIFTEM-SYN-026,Myra Singh,27,Female,Delhi,Visitor,26-35,Coffee,6.3,Lemon,9.3,Non-sugar,8.0,High,Balanced sweetness
+NIFTEM-SYN-027,Neil Kapoor,20,Female,Dehradun,Student,16-20,Butterscotch,7.7,Orange,5.5,Sugar,6.6,Medium,Premium taste perception
+NIFTEM-SYN-028,Jonas Novak,19,Male,Kathmandu,Student,16-20,Butterscotch,7.9,Blueberry,8.2,Sugar,8.2,High,Balanced sweetness
+NIFTEM-SYN-029,Krish Bhatia,33,Female,Mumbai,Visitor,26-35,Mango,8.1,Orange,6.7,Sugar,6.9,Medium,Strong flavour recall
+NIFTEM-SYN-030,Meera Kulkarni,25,Male,Ludhiana,Student,21-25,Mango,9.3,Lemon,8.8,Sugar,8.9,High,Premium taste perception
+NIFTEM-SYN-031,Lavanya Malhotra,36,Male,Ludhiana,Visitor,36-50,Butterscotch,7.6,Lemon,6.8,Non-sugar,7.7,Medium,Strong flavour recall
+NIFTEM-SYN-032,Parth Tiwari,39,Female,Patna,Visitor,36-50,Pista,6.1,Orange,8.4,Non-sugar,7.2,Medium,Creamy mouthfeel
+NIFTEM-SYN-033,Utkarsh Dhar,24,Female,Patna,Student,21-25,Butterscotch,8.8,Orange,6.7,Sugar,7.8,Medium,Premium taste perception
+NIFTEM-SYN-034,Kunal Mukherjee,18,Male,Pune,Student,16-20,Mango,7.9,Lemon,8.9,Sugar,8.8,High,Balanced sweetness
+NIFTEM-SYN-035,Tara Dutta,54,Male,Meerut,Visitor,51+,Pista,8.4,Blueberry,8.3,Non-sugar,8.4,High,Balanced sweetness
+NIFTEM-SYN-036,Ritika Singh,20,Male,Jaipur,Student,16-20,Mango,7.2,Orange,7.7,Non-sugar,6.9,Medium,Strong flavour recall
+NIFTEM-SYN-037,Mira Moretti,22,Male,Berlin,Student,21-25,Mango,9.6,Blueberry,8.6,Non-sugar,9.2,High,Premium taste perception
+NIFTEM-SYN-038,Jiya Dutta,21,Female,Kundli,Visitor,21-25,Coffee,7.5,Lemon,10.0,Sugar,9.1,High,Good summer refreshment
+NIFTEM-SYN-039,Amina Meier,17,Female,Berlin,Student,16-20,Coffee,6.8,Blueberry,9.2,Non-sugar,7.3,Medium,Good summer refreshment
+NIFTEM-SYN-040,Mila Ivanov,36,Male,Gurugram,Visitor,36-50,Coffee,5.3,Lemon,7.1,Sugar,5.8,Low,Balanced sweetness
+NIFTEM-SYN-041,Selin Yildiz,20,Male,Karnal,Student,16-20,Mango,7.9,Blueberry,9.8,Non-sugar,8.9,High,Strong flavour recall
+NIFTEM-SYN-042,Ines Khan,31,Male,Tokyo,Visitor,26-35,Pista,7.2,Blueberry,7.3,Non-sugar,7.3,Medium,Good summer refreshment
+NIFTEM-SYN-043,Diya Bansal,21,Female,Ahmedabad,Student,21-25,Mango,9.1,Lemon,8.2,Sugar,8.8,High,Strong flavour recall
+NIFTEM-SYN-044,Aisha Gill,40,Female,Hyderabad,Visitor,36-50,Pista,9.1,Orange,6.6,Non-sugar,7.5,Medium,Balanced sweetness
+NIFTEM-SYN-045,Myra Mukherjee,41,Female,Dehradun,Food Inspector,36-50,Coffee,5.7,Orange,7.3,Non-sugar,6.4,Medium,Good summer refreshment
+NIFTEM-SYN-046,Dhruv Bhatia,63,Male,Faridabad,Visitor,51+,Butterscotch,9.0,Lemon,9.0,Sugar,9.1,High,Creamy mouthfeel
+NIFTEM-SYN-047,Saira Singh,50,Male,Sonipat,Food Inspector,36-50,Mango,6.6,Jeera,6.4,Sugar,6.1,Medium,Strong flavour recall
+NIFTEM-SYN-048,Leandro Ahmed,21,Female,Toronto,Student,21-25,Pista,7.2,Lemon,9.4,Sugar,7.5,Medium,Good summer refreshment
+NIFTEM-SYN-049,Abeer Dutta,44,Female,Amritsar,Food Inspector,36-50,Butterscotch,8.4,Jeera,6.3,Non-sugar,7.0,Medium,Creamy mouthfeel
+NIFTEM-SYN-050,Vihaan Bansal,20,Male,Noida,Student,16-20,Pista,6.9,Blueberry,9.1,Sugar,8.1,High,Balanced sweetness
+NIFTEM-SYN-051,Shaurya Patel,28,Male,Ludhiana,Visitor,26-35,Mango,9.1,Lemon,9.1,Non-sugar,9.2,High,Strong flavour recall
+NIFTEM-SYN-052,Aryan Kulkarni,61,Male,Ahmedabad,Visitor,51+,Butterscotch,8.6,Blueberry,8.5,Sugar,8.6,High,Premium taste perception
+NIFTEM-SYN-053,Ananya Bansal,59,Male,Karnal,Food Inspector,51+,Coffee,6.2,Orange,6.9,Non-sugar,6.6,Medium,Good summer refreshment
+NIFTEM-SYN-054,Manya Roy,20,Male,Indore,Student,16-20,Mango,7.9,Lemon,9.1,Sugar,8.8,High,Strong flavour recall
+NIFTEM-SYN-055,Leo Tanaka,23,Female,Kuala Lumpur,Student,21-25,Rose,8.7,Jeera,7.0,Sugar,7.7,Medium,Needs lighter sweetness
+NIFTEM-SYN-056,Santiago Berg,38,Male,Kundli,Visitor,36-50,Pista,7.6,Lemon,9.8,Sugar,8.6,High,Good summer refreshment
+NIFTEM-SYN-057,Aarav Gill,39,Other,Jaipur,Visitor,36-50,Mango,7.3,Jeera,6.9,Non-sugar,6.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-058,Suhani Nair,55,Male,Amritsar,Visitor,51+,Mango,8.7,Orange,5.4,Sugar,7.5,Medium,Creamy mouthfeel
+NIFTEM-SYN-059,Riya Bhardwaj,21,Male,Karnal,Student,21-25,Mango,7.9,Blueberry,8.1,Non-sugar,7.9,Medium,Strong flavour recall
+NIFTEM-SYN-060,Aditi Dutta,36,Male,Kuala Lumpur,Visitor,36-50,Pista,8.1,Jeera,7.9,Sugar,8.0,High,Needs lighter sweetness
+NIFTEM-SYN-061,Leyla Ahmed,18,Female,Kolkata,Visitor,16-20,Mango,9.0,Jeera,6.8,Sugar,8.0,High,Premium taste perception
+NIFTEM-SYN-062,Aditi Joshi,22,Female,Patna,Student,21-25,Pista,7.0,Jeera,7.3,Sugar,7.2,Medium,Good summer refreshment
+NIFTEM-SYN-063,Noah Lopez,38,Male,Seoul,Visitor,36-50,Pista,9.1,Jeera,7.3,Sugar,8.1,High,Needs lighter sweetness
+NIFTEM-SYN-064,Navya Bhatia,22,Male,Kundli,Student,21-25,Butterscotch,9.3,Blueberry,8.5,Sugar,9.4,High,Strong flavour recall
+NIFTEM-SYN-065,Ishaan Chatterjee,25,Male,Karnal,Student,21-25,Coffee,8.1,Lemon,8.4,Non-sugar,8.0,High,Balanced sweetness
+NIFTEM-SYN-066,Ahaan Kohli,25,Other,Mumbai,Student,21-25,Butterscotch,8.7,Lemon,7.5,Non-sugar,7.9,Medium,Creamy mouthfeel
+NIFTEM-SYN-067,Ethan Meier,23,Male,Singapore,Student,21-25,Mango,8.8,Lemon,10.0,Sugar,9.5,High,Creamy mouthfeel
+NIFTEM-SYN-068,Sofia Rossi,23,Male,Dubai,Visitor,21-25,Mango,7.3,Orange,7.4,Sugar,7.5,Medium,Good summer refreshment
+NIFTEM-SYN-069,Pihu Deshmukh,63,Male,Lucknow,Visitor,51+,Mango,9.0,Jeera,5.9,Sugar,8.0,High,Strong flavour recall
+NIFTEM-SYN-070,Myra Gill,44,Female,Hyderabad,Food Inspector,36-50,Pista,7.6,Orange,5.4,Non-sugar,6.2,Medium,Balanced sweetness
+NIFTEM-SYN-071,Samar Verma,49,Female,Patna,Food Inspector,36-50,Pista,6.7,Blueberry,6.7,Sugar,6.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-072,Diya Singh,47,Female,Ahmedabad,Visitor,36-50,Butterscotch,8.5,Blueberry,8.0,Non-sugar,7.5,Medium,Premium taste perception
+NIFTEM-SYN-073,Aisha Rana,54,Female,Chandigarh,Visitor,51+,Mango,6.3,Orange,6.5,Sugar,6.2,Medium,Balanced sweetness
+NIFTEM-SYN-074,Ines Garcia,20,Male,Paris,Visitor,16-20,Mango,9.4,Fruit Beer,6.7,Non-sugar,7.8,Medium,Strong flavour recall
+NIFTEM-SYN-075,Tara Ghosh,39,Male,Gurugram,Food Inspector,36-50,Coffee,4.9,Fruit Beer,5.7,Sugar,5.8,Low,Balanced sweetness
+NIFTEM-SYN-076,Nadia Ivanov,20,Female,Colombo,Student,16-20,Mango,9.9,Lemon,7.9,Sugar,9.0,High,Premium taste perception
+NIFTEM-SYN-077,Vanya Rana,25,Male,Karnal,Student,21-25,Mango,7.8,Blueberry,9.1,Sugar,7.7,Medium,Good summer refreshment
+NIFTEM-SYN-078,Kiara Malhotra,40,Male,Amritsar,Food Inspector,36-50,Coffee,6.3,Blueberry,6.7,Sugar,6.6,Medium,Premium taste perception
+NIFTEM-SYN-079,Kashvi Gill,37,Female,Chandigarh,Visitor,36-50,Rose,6.8,Blueberry,7.5,Non-sugar,7.0,Medium,Premium taste perception
+NIFTEM-SYN-080,Elena Garcia,36,Female,Kathmandu,Visitor,36-50,Mango,9.3,Lemon,9.7,Non-sugar,9.4,High,Premium taste perception
+NIFTEM-SYN-081,Vedant Roy,19,Female,Faridabad,Student,16-20,Mango,9.4,Blueberry,9.2,Sugar,9.5,High,Creamy mouthfeel
+NIFTEM-SYN-082,Eva Silva,44,Male,Toronto,Visitor,36-50,Pista,6.9,Blueberry,7.2,Non-sugar,6.7,Medium,Balanced sweetness
+NIFTEM-SYN-083,Parth Reddy,42,Female,Bengaluru,Visitor,36-50,Butterscotch,8.2,Lemon,8.4,Sugar,8.3,High,Premium taste perception
+NIFTEM-SYN-084,Riya Pillai,26,Male,Dehradun,Visitor,26-35,Pista,6.9,Lemon,9.4,Sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-085,Aisha Mehta,22,Female,Panipat,Student,21-25,Butterscotch,8.3,Blueberry,8.9,Sugar,8.7,High,Creamy mouthfeel
+NIFTEM-SYN-086,Leandro Rossi,17,Male,Dubai,Student,16-20,Butterscotch,8.4,Lemon,7.5,Sugar,7.8,Medium,Premium taste perception
+NIFTEM-SYN-087,Sofia Lopez,47,Male,Singapore,Food Inspector,36-50,Pista,7.1,Blueberry,7.8,Non-sugar,7.2,Medium,Premium taste perception
+NIFTEM-SYN-088,Anika Bansal,23,Male,Mumbai,Student,21-25,Mango,10.0,Blueberry,7.8,Non-sugar,8.9,High,Premium taste perception
+NIFTEM-SYN-089,Manav Nair,18,Female,Gurugram,Student,16-20,Pista,8.8,Lemon,8.3,Sugar,8.1,High,Strong flavour recall
+NIFTEM-SYN-090,Eva Rahman,33,Female,Berlin,Visitor,26-35,Butterscotch,8.6,Blueberry,7.2,Sugar,7.4,Medium,Premium taste perception
+NIFTEM-SYN-091,Riya Chatterjee,22,Female,Sonipat,Student,21-25,Coffee,6.2,Lemon,8.2,Non-sugar,6.4,Medium,Good summer refreshment
+NIFTEM-SYN-092,Ishaan Kohli,59,Male,Pune,Food Inspector,51+,Butterscotch,6.9,Jeera,7.4,Sugar,6.3,Medium,Premium taste perception
+NIFTEM-SYN-093,Diya Shekhawat,20,Male,Bhopal,Student,16-20,Mango,8.2,Blueberry,9.3,Sugar,8.9,High,Creamy mouthfeel
+NIFTEM-SYN-094,Ahaan Kulkarni,35,Male,Karnal,Food Inspector,26-35,Mango,7.1,Orange,7.2,Sugar,7.0,Medium,Premium taste perception
+NIFTEM-SYN-095,Harsh Bansal,17,Male,Hyderabad,Student,16-20,Pista,9.5,Fruit Beer,6.6,Sugar,8.5,High,Balanced sweetness
+NIFTEM-SYN-096,Naina Mehta,17,Male,Meerut,Student,16-20,Mango,9.5,Jeera,8.1,Non-sugar,9.2,High,Strong flavour recall
+NIFTEM-SYN-097,Tanvi Chawla,22,Female,Hyderabad,Student,21-25,Butterscotch,8.4,Jeera,6.7,Non-sugar,7.2,Medium,Strong flavour recall
+NIFTEM-SYN-098,Ritika Shekhawat,39,Female,Jaipur,Visitor,36-50,Rose,8.0,Blueberry,10.0,Sugar,8.7,High,Balanced sweetness
+NIFTEM-SYN-099,Nora Fernandez,26,Male,Colombo,Visitor,26-35,Mango,9.5,Orange,6.4,Non-sugar,8.5,High,Premium taste perception
+NIFTEM-SYN-100,Arjun Deshmukh,25,Female,Bhopal,Student,21-25,Mango,9.8,Blueberry,8.3,Sugar,9.1,High,Strong flavour recall
+NIFTEM-SYN-101,Ahaan Bansal,22,Female,Delhi,Student,21-25,Mango,10.0,Lemon,9.1,Non-sugar,8.9,High,Premium taste perception
+NIFTEM-SYN-102,Aarav Bansal,51,Male,Kolkata,Food Inspector,51+,Butterscotch,8.0,Lemon,7.8,Sugar,8.2,High,Premium taste perception
+NIFTEM-SYN-103,Vanya Chatterjee,21,Male,Nairobi,Student,21-25,Mango,7.8,Lemon,9.2,Sugar,8.5,High,Good summer refreshment
+NIFTEM-SYN-104,Prisha Malhotra,42,Male,Patna,Visitor,36-50,Butterscotch,9.3,Blueberry,6.6,Sugar,7.2,Medium,Creamy mouthfeel
+NIFTEM-SYN-105,Kabir Yadav,49,Male,Karnal,Visitor,36-50,Mango,7.1,Lemon,8.1,Sugar,7.9,Medium,Strong flavour recall
+NIFTEM-SYN-106,Naina Iyer,23,Female,Singapore,Student,21-25,Rose,8.3,Lemon,8.4,Non-sugar,8.7,High,Balanced sweetness
+NIFTEM-SYN-107,Abeer Saxena,31,Female,Meerut,Visitor,26-35,Pista,6.8,Blueberry,8.8,Sugar,8.1,High,Strong flavour recall
+NIFTEM-SYN-108,Anshika Tiwari,21,Male,Kundli,Student,21-25,Rose,6.8,Blueberry,8.2,Sugar,7.6,Medium,Balanced sweetness
+NIFTEM-SYN-109,Saira Roy,24,Female,Ahmedabad,Student,21-25,Mango,8.5,Fruit Beer,9.0,Sugar,8.9,High,Premium taste perception
+NIFTEM-SYN-110,Ritika Menon,38,Male,Gurugram,Visitor,36-50,Mango,8.6,Lemon,8.0,Non-sugar,8.0,High,Creamy mouthfeel
+NIFTEM-SYN-111,Navya Shekhawat,17,Female,Bengaluru,Student,16-20,Mango,8.4,Lemon,10.0,Sugar,9.4,High,Strong flavour recall
+NIFTEM-SYN-112,Lavanya Patel,24,Other,Chandigarh,Student,21-25,Butterscotch,8.6,Lemon,9.2,Non-sugar,8.6,High,Premium taste perception
+NIFTEM-SYN-113,Emir Popescu,19,Male,Kathmandu,Student,16-20,Mango,8.7,Orange,6.8,Non-sugar,7.6,Medium,Creamy mouthfeel
+NIFTEM-SYN-114,Kavya Verma,42,Female,Dehradun,Visitor,36-50,Butterscotch,8.8,Lemon,7.3,Non-sugar,9.3,High,Strong flavour recall
+NIFTEM-SYN-115,Lakshay Kohli,22,Male,Ludhiana,Student,21-25,Mango,9.0,Jeera,5.8,Sugar,7.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-116,Dario Dubois,35,Female,Colombo,Visitor,26-35,Coffee,8.9,Jeera,7.2,Sugar,7.8,Medium,Needs lighter sweetness
+NIFTEM-SYN-117,Nikhil Reddy,25,Male,Kundli,Student,21-25,Mango,8.6,Blueberry,7.2,Non-sugar,8.1,High,Creamy mouthfeel
+NIFTEM-SYN-118,Kashvi Kohli,21,Male,Chandigarh,Student,21-25,Butterscotch,7.6,Blueberry,7.8,Sugar,8.5,High,Premium taste perception
+NIFTEM-SYN-119,Avni Malhotra,18,Female,Noida,Student,16-20,Butterscotch,8.2,Lemon,7.3,Sugar,8.4,High,Premium taste perception
+NIFTEM-SYN-120,Rudra Pillai,17,Female,Panipat,Student,16-20,Mango,7.0,Blueberry,7.9,Non-sugar,7.3,Medium,Strong flavour recall
+NIFTEM-SYN-121,Eva Costa,39,Female,Seoul,Visitor,36-50,Rose,7.7,Blueberry,8.7,Non-sugar,7.9,Medium,Good summer refreshment
+NIFTEM-SYN-122,Kavya Naidu,16,Male,Ludhiana,Student,16-20,Mango,9.0,Lemon,8.6,Sugar,9.1,High,Creamy mouthfeel
+NIFTEM-SYN-123,Aryan Gill,20,Female,Patna,Student,16-20,Butterscotch,7.6,Jeera,6.2,Sugar,7.0,Medium,Good summer refreshment
+NIFTEM-SYN-124,Prisha Nair,16,Female,Bhopal,Student,16-20,Pista,7.9,Orange,6.8,Non-sugar,7.3,Medium,Strong flavour recall
+NIFTEM-SYN-125,Vanya Pillai,19,Male,Amritsar,Student,16-20,Rose,6.8,Blueberry,7.7,Sugar,7.4,Medium,Creamy mouthfeel
+NIFTEM-SYN-126,Tejas Verma,51,Male,Lucknow,Visitor,51+,Butterscotch,7.6,Orange,6.7,Non-sugar,7.0,Medium,Needs lighter sweetness
+NIFTEM-SYN-127,Felix Dubois,24,Female,Dhaka,Visitor,21-25,Mango,9.5,Lemon,9.7,Non-sugar,9.1,High,Strong flavour recall
+NIFTEM-SYN-128,Saira Iyer,41,Female,Patna,Visitor,36-50,Mango,9.5,Lemon,9.3,Sugar,9.2,High,Strong flavour recall
+NIFTEM-SYN-129,Ishaan Patel,19,Male,Chandigarh,Student,16-20,Coffee,7.0,Fruit Beer,5.4,Sugar,6.1,Medium,Needs lighter sweetness
+NIFTEM-SYN-130,Isabella Rossi,53,Female,Amritsar,Visitor,51+,Coffee,5.8,Jeera,6.7,Non-sugar,6.5,Medium,Good summer refreshment
+NIFTEM-SYN-131,Leandro Costa,21,Male,Dhaka,Student,21-25,Mango,8.8,Lemon,8.0,Sugar,9.1,High,Creamy mouthfeel
+NIFTEM-SYN-132,Lakshay Joshi,25,Male,Panipat,Student,21-25,Coffee,7.4,Lemon,7.7,Sugar,7.0,Medium,Premium taste perception
+NIFTEM-SYN-133,Kunal Pillai,21,Male,Sonipat,Student,21-25,Butterscotch,10.0,Orange,6.6,Sugar,8.6,High,Creamy mouthfeel
+NIFTEM-SYN-134,Lina Yildiz,32,Male,Sydney,Visitor,26-35,Mango,10.0,Lemon,6.9,Sugar,8.0,High,Premium taste perception
+NIFTEM-SYN-135,Mira Fernandez,18,Male,Colombo,Student,16-20,Mango,8.2,Lemon,8.8,Non-sugar,8.7,High,Strong flavour recall
+NIFTEM-SYN-136,Advik Bhatia,41,Male,Ludhiana,Visitor,36-50,Mango,10.0,Orange,7.4,Sugar,8.9,High,Creamy mouthfeel
+NIFTEM-SYN-137,Ahaan Mukherjee,22,Male,Lucknow,Student,21-25,Mango,8.7,Blueberry,8.1,Sugar,8.6,High,Strong flavour recall
+NIFTEM-SYN-138,Clara Khan,25,Female,Panipat,Student,21-25,Butterscotch,9.0,Blueberry,9.2,Non-sugar,9.1,High,Premium taste perception
+NIFTEM-SYN-139,Zara Berg,20,Male,Faridabad,Student,16-20,Pista,7.4,Lemon,8.6,Sugar,7.6,Medium,Good summer refreshment
+NIFTEM-SYN-140,Aditi Tiwari,31,Female,Karnal,Food Inspector,26-35,Butterscotch,7.5,Jeera,5.4,Sugar,6.6,Medium,Balanced sweetness
+NIFTEM-SYN-141,Navya Reddy,18,Female,Hyderabad,Student,16-20,Mango,8.5,Blueberry,7.4,Non-sugar,8.6,High,Premium taste perception
+NIFTEM-SYN-142,Lakshay Bhatia,62,Male,Meerut,Visitor,51+,Butterscotch,9.1,Jeera,4.9,Sugar,7.2,Medium,Creamy mouthfeel
+NIFTEM-SYN-143,Vedant Singh,36,Female,Bengaluru,Visitor,36-50,Mango,9.5,Fruit Beer,5.2,Non-sugar,7.7,Medium,Premium taste perception
+NIFTEM-SYN-144,Manav Ghosh,24,Female,Bengaluru,Student,21-25,Pista,7.5,Lemon,8.0,Non-sugar,7.3,Medium,Good summer refreshment
+NIFTEM-SYN-145,Kabir Agarwal,20,Male,Ahmedabad,Visitor,16-20,Pista,7.6,Blueberry,8.9,Sugar,8.3,High,Balanced sweetness
+NIFTEM-SYN-146,Pihu Kohli,30,Male,Amritsar,Visitor,26-35,Rose,6.7,Fruit Beer,5.6,Sugar,6.1,Medium,Needs lighter sweetness
+NIFTEM-SYN-147,Kenji Rahman,60,Male,London,Visitor,51+,Pista,7.2,Orange,8.0,Non-sugar,7.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-148,Shaurya Reddy,42,Male,Gurugram,Visitor,36-50,Coffee,7.5,Blueberry,8.7,Sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-149,Rohan Saini,20,Male,Faridabad,Student,16-20,Butterscotch,9.8,Lemon,9.3,Sugar,9.1,High,Creamy mouthfeel
+NIFTEM-SYN-150,Leyla Rossi,22,Female,Dubai,Student,21-25,Pista,7.0,Orange,8.4,Non-sugar,7.4,Medium,Creamy mouthfeel
+NIFTEM-SYN-151,Leo Novak,40,Female,Nairobi,Food Inspector,36-50,Butterscotch,6.5,Fruit Beer,6.3,Sugar,6.3,Medium,Strong flavour recall
+NIFTEM-SYN-152,Lakshay Rana,21,Male,Jaipur,Student,21-25,Butterscotch,7.1,Orange,7.2,Sugar,7.4,Medium,Needs lighter sweetness
+NIFTEM-SYN-153,Ethan Schmidt,40,Female,Paris,Visitor,36-50,Pista,6.1,Orange,7.6,Sugar,6.7,Medium,Strong flavour recall
+NIFTEM-SYN-154,Mira Rahman,61,Female,London,Visitor,51+,Pista,7.9,Orange,5.7,Sugar,7.2,Medium,Premium taste perception
+NIFTEM-SYN-155,Tara Dhar,44,Male,Sonipat,Visitor,36-50,Butterscotch,9.5,Blueberry,8.3,Sugar,9.3,High,Premium taste perception
+NIFTEM-SYN-156,Manav Roy,18,Female,Noida,Student,16-20,Mango,8.9,Blueberry,8.6,Sugar,8.5,High,Premium taste perception
+NIFTEM-SYN-157,Ines Ivanov,22,Female,Sydney,Visitor,21-25,Coffee,7.6,Orange,7.4,Sugar,7.2,Medium,Premium taste perception
+NIFTEM-SYN-158,Kavya Roy,23,Male,Pune,Visitor,21-25,Butterscotch,9.1,Lemon,9.0,Non-sugar,9.7,High,Premium taste perception
+NIFTEM-SYN-159,Anshika Malhotra,27,Male,Lucknow,Food Inspector,26-35,Coffee,7.2,Blueberry,7.5,Sugar,7.4,Medium,Balanced sweetness
+NIFTEM-SYN-160,Aryan Mukherjee,42,Male,Hyderabad,Food Inspector,36-50,Rose,5.2,Jeera,6.2,Non-sugar,5.6,Low,Balanced sweetness
+NIFTEM-SYN-161,Ira Ghosh,48,Male,Pune,Food Inspector,36-50,Coffee,5.3,Blueberry,6.7,Non-sugar,5.8,Low,Balanced sweetness
+NIFTEM-SYN-162,Navya Bhardwaj,19,Male,Kundli,Student,16-20,Mango,9.0,Lemon,7.6,Sugar,8.7,High,Premium taste perception
+NIFTEM-SYN-163,Rudra Bansal,23,Female,Amritsar,Visitor,21-25,Mango,7.7,Blueberry,7.9,Sugar,7.9,Medium,Needs lighter sweetness
+NIFTEM-SYN-164,Yash Khurana,24,Female,Kathmandu,Student,21-25,Rose,7.2,Fruit Beer,6.2,Sugar,6.6,Medium,Strong flavour recall
+NIFTEM-SYN-165,Aisha Bora,20,Female,Noida,Student,16-20,Mango,8.8,Lemon,9.9,Sugar,9.2,High,Premium taste perception
+NIFTEM-SYN-166,Myra Joshi,19,Male,Hyderabad,Student,16-20,Rose,6.7,Jeera,7.4,Sugar,7.0,Medium,Premium taste perception
+NIFTEM-SYN-167,Yash Bhatia,40,Female,Pune,Visitor,36-50,Butterscotch,7.2,Lemon,9.7,Non-sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-168,Kenji Popescu,22,Male,Dubai,Student,21-25,Butterscotch,8.7,Lemon,8.1,Non-sugar,7.8,Medium,Premium taste perception
+NIFTEM-SYN-169,Reyansh Reddy,20,Female,Karnal,Student,16-20,Butterscotch,7.6,Blueberry,7.9,Sugar,8.4,High,Balanced sweetness
+NIFTEM-SYN-170,Aya Khan,24,Male,London,Visitor,21-25,Mango,7.9,Orange,7.8,Sugar,8.3,High,Premium taste perception
+NIFTEM-SYN-171,Vihaan Ghosh,29,Male,Bhopal,Visitor,26-35,Butterscotch,7.8,Blueberry,7.0,Sugar,8.1,High,Good summer refreshment
+NIFTEM-SYN-172,Meera Kapoor,20,Female,Faridabad,Student,16-20,Mango,10.0,Blueberry,7.5,Non-sugar,8.8,High,Premium taste perception
+NIFTEM-SYN-173,Vivaan Kapoor,27,Male,Karnal,Visitor,26-35,Coffee,7.0,Lemon,9.0,Sugar,7.2,Medium,Balanced sweetness
+NIFTEM-SYN-174,Naina Roy,21,Male,Faridabad,Student,21-25,Mango,8.0,Orange,7.7,Non-sugar,8.4,High,Creamy mouthfeel
+NIFTEM-SYN-175,Ishaan Singh,22,Female,Pune,Student,21-25,Butterscotch,8.1,Fruit Beer,7.4,Sugar,7.6,Medium,Premium taste perception
+NIFTEM-SYN-176,Manav Reddy,17,Female,Dehradun,Student,16-20,Mango,9.1,Lemon,8.3,Sugar,8.3,High,Creamy mouthfeel
+NIFTEM-SYN-177,Ira Bhatia,60,Male,Patna,Food Inspector,51+,Pista,7.4,Blueberry,8.2,Sugar,7.7,Medium,Good summer refreshment
+NIFTEM-SYN-178,Advik Khurana,20,Male,Bhopal,Student,16-20,Pista,7.8,Blueberry,8.9,Non-sugar,8.7,High,Good summer refreshment
+NIFTEM-SYN-179,Aisha Ghosh,52,Male,Noida,Food Inspector,51+,Butterscotch,7.3,Blueberry,7.4,Sugar,6.3,Medium,Balanced sweetness
+NIFTEM-SYN-180,Santiago Schmidt,50,Female,Hyderabad,Visitor,36-50,Mango,8.0,Fruit Beer,5.8,Non-sugar,7.0,Medium,Premium taste perception
+NIFTEM-SYN-181,Liam Berg,41,Male,Dhaka,Food Inspector,36-50,Pista,7.2,Orange,7.0,Sugar,7.2,Medium,Good summer refreshment
+NIFTEM-SYN-182,Harsh Singh,59,Female,Rohtak,Food Inspector,51+,Butterscotch,8.3,Fruit Beer,6.2,Non-sugar,7.1,Medium,Premium taste perception
+NIFTEM-SYN-183,Isabella Ahmed,22,Male,Tokyo,Student,21-25,Rose,6.6,Orange,6.4,Sugar,6.3,Medium,Creamy mouthfeel
+NIFTEM-SYN-184,Tejas Bansal,36,Female,Faridabad,Visitor,36-50,Coffee,6.4,Lemon,10.0,Non-sugar,8.2,High,Strong flavour recall
+NIFTEM-SYN-185,Omar Ahmed,53,Female,Amritsar,Visitor,51+,Butterscotch,8.1,Lemon,9.7,Non-sugar,9.4,High,Strong flavour recall
+NIFTEM-SYN-186,Sofia Kowalski,23,Female,Toronto,Student,21-25,Butterscotch,9.7,Lemon,9.2,Non-sugar,9.4,High,Creamy mouthfeel
+NIFTEM-SYN-187,Clara Hassan,30,Female,Sydney,Visitor,26-35,Butterscotch,8.8,Jeera,7.6,Sugar,8.0,High,Strong flavour recall
+NIFTEM-SYN-188,Rudra Sharma,22,Female,Kundli,Student,21-25,Mango,10.0,Orange,8.4,Sugar,8.2,High,Creamy mouthfeel
+NIFTEM-SYN-189,Shaurya Khurana,19,Female,Panipat,Student,16-20,Mango,9.7,Jeera,6.1,Sugar,7.8,Medium,Strong flavour recall
+NIFTEM-SYN-190,Rohan Yadav,44,Male,Ludhiana,Visitor,36-50,Butterscotch,8.0,Lemon,8.9,Sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-191,Ira Pillai,21,Female,Jaipur,Student,21-25,Butterscotch,8.7,Blueberry,7.1,Sugar,8.2,High,Strong flavour recall
+NIFTEM-SYN-192,Advik Arora,30,Male,Sonipat,Visitor,26-35,Butterscotch,7.3,Lemon,8.3,Non-sugar,7.7,Medium,Good summer refreshment
+NIFTEM-SYN-193,Emir Dubois,22,Male,Toronto,Student,21-25,Pista,7.7,Fruit Beer,6.5,Sugar,7.3,Medium,Balanced sweetness
+NIFTEM-SYN-194,Lina Fernandez,22,Male,Tokyo,Student,21-25,Mango,9.1,Blueberry,7.9,Sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-195,Oliver Schmidt,47,Male,Berlin,Visitor,36-50,Mango,8.5,Orange,5.5,Sugar,7.1,Medium,Premium taste perception
+NIFTEM-SYN-196,Ishika Reddy,22,Male,Karnal,Student,21-25,Pista,7.8,Lemon,9.7,Non-sugar,8.6,High,Strong flavour recall
+NIFTEM-SYN-197,Prisha Iyer,24,Male,Lucknow,Student,21-25,Mango,8.2,Blueberry,8.3,Sugar,8.7,High,Strong flavour recall
+NIFTEM-SYN-198,Kavya Kohli,21,Female,Noida,Student,21-25,Pista,7.5,Lemon,8.4,Non-sugar,7.9,Medium,Good summer refreshment
+NIFTEM-SYN-199,Prisha Khurana,42,Male,Noida,Visitor,36-50,Coffee,6.1,Orange,7.6,Sugar,6.4,Medium,Balanced sweetness
+NIFTEM-SYN-200,Saanvi Dhar,64,Female,Sonipat,Visitor,51+,Coffee,7.5,Lemon,7.8,Non-sugar,7.7,Medium,Good summer refreshment
+NIFTEM-SYN-201,Avni Sharma,21,Male,Mumbai,Student,21-25,Butterscotch,7.0,Blueberry,8.4,Non-sugar,8.0,High,Good summer refreshment
+NIFTEM-SYN-202,Anshika Dutta,55,Female,Berlin,Visitor,51+,Coffee,8.6,Lemon,7.6,Non-sugar,7.5,Medium,Balanced sweetness
+NIFTEM-SYN-203,Diya Dutta,19,Male,Sonipat,Student,16-20,Mango,9.3,Lemon,7.9,Non-sugar,8.9,High,Strong flavour recall
+NIFTEM-SYN-204,Reyansh Arora,25,Female,Tokyo,Visitor,21-25,Mango,8.1,Jeera,7.7,Non-sugar,7.7,Medium,Premium taste perception
+NIFTEM-SYN-205,Marius Kowalski,17,Female,Paris,Student,16-20,Mango,7.9,Orange,7.6,Non-sugar,7.8,Medium,Good summer refreshment
+NIFTEM-SYN-206,Selin Tanaka,63,Female,Noida,Visitor,51+,Butterscotch,8.0,Lemon,8.0,Sugar,8.6,High,Premium taste perception
+NIFTEM-SYN-207,Leo Costa,26,Female,Kathmandu,Visitor,26-35,Mango,9.2,Jeera,6.8,Sugar,8.2,High,Strong flavour recall
+NIFTEM-SYN-208,Manya Patel,24,Female,Kundli,Student,21-25,Butterscotch,7.7,Lemon,10.0,Sugar,8.5,High,Good summer refreshment
+NIFTEM-SYN-209,Mateo Hassan,16,Male,Nairobi,Student,16-20,Pista,7.8,Lemon,9.2,Sugar,8.4,High,Strong flavour recall
+NIFTEM-SYN-210,Kashvi Kulkarni,20,Female,Patna,Student,16-20,Butterscotch,10.0,Blueberry,8.6,Non-sugar,9.0,High,Strong flavour recall
+NIFTEM-SYN-211,Felix Yildiz,24,Male,Doha,Student,21-25,Butterscotch,8.8,Blueberry,9.0,Non-sugar,9.0,High,Creamy mouthfeel
+NIFTEM-SYN-212,Hana Fernandez,23,Other,Berlin,Visitor,21-25,Pista,9.4,Lemon,9.4,Sugar,8.7,High,Good summer refreshment
+NIFTEM-SYN-213,Ishaan Khurana,53,Female,Noida,Food Inspector,51+,Pista,8.1,Fruit Beer,6.2,Non-sugar,7.6,Medium,Strong flavour recall
+NIFTEM-SYN-214,Shaurya Naidu,21,Female,Bhopal,Student,21-25,Pista,7.3,Blueberry,9.0,Non-sugar,8.7,High,Good summer refreshment
+NIFTEM-SYN-215,Manya Nair,36,Male,Bhopal,Visitor,36-50,Coffee,7.4,Blueberry,8.7,Non-sugar,8.2,High,Strong flavour recall
+NIFTEM-SYN-216,Emir Hassan,51,Male,London,Visitor,51+,Mango,9.1,Blueberry,8.6,Non-sugar,9.1,High,Creamy mouthfeel
+NIFTEM-SYN-217,Aarav Kohli,21,Male,Meerut,Student,21-25,Coffee,7.1,Fruit Beer,7.7,Non-sugar,7.6,Medium,Strong flavour recall
+NIFTEM-SYN-218,Yash Menon,49,Male,Kundli,Visitor,36-50,Mango,8.5,Lemon,8.9,Sugar,9.2,High,Creamy mouthfeel
+NIFTEM-SYN-219,Ishika Khurana,40,Male,Kolkata,Visitor,36-50,Butterscotch,9.2,Blueberry,8.9,Non-sugar,9.4,High,Creamy mouthfeel
+NIFTEM-SYN-220,Ishaan Rana,19,Female,Pune,Student,16-20,Rose,6.1,Lemon,10.0,Non-sugar,8.4,High,Balanced sweetness
+NIFTEM-SYN-221,Vanya Mishra,24,Male,Kolkata,Student,21-25,Mango,9.0,Lemon,9.2,Non-sugar,8.9,High,Premium taste perception
+NIFTEM-SYN-222,Riya Mukherjee,26,Male,Hyderabad,Visitor,26-35,Butterscotch,7.0,Blueberry,7.9,Sugar,7.9,Medium,Strong flavour recall
+NIFTEM-SYN-223,Tara Menon,23,Female,Kundli,Student,21-25,Butterscotch,8.4,Jeera,8.2,Sugar,8.0,High,Creamy mouthfeel
+NIFTEM-SYN-224,Vihaan Shekhawat,35,Male,Jaipur,Food Inspector,26-35,Pista,7.5,Lemon,7.3,Sugar,6.8,Medium,Needs lighter sweetness
+NIFTEM-SYN-225,Diya Mishra,40,Male,Hyderabad,Visitor,36-50,Rose,6.3,Jeera,5.7,Sugar,6.4,Medium,Strong flavour recall
+NIFTEM-SYN-226,Amina Dubois,26,Other,Kuala Lumpur,Student,26-35,Butterscotch,9.5,Jeera,6.9,Non-sugar,9.0,High,Creamy mouthfeel
+NIFTEM-SYN-227,Suhani Arora,18,Male,Lucknow,Visitor,16-20,Pista,7.6,Blueberry,7.8,Sugar,8.0,High,Balanced sweetness
+NIFTEM-SYN-228,Eva Berg,55,Male,Panipat,Visitor,51+,Mango,9.6,Orange,6.3,Sugar,7.8,Medium,Premium taste perception
+NIFTEM-SYN-229,Harsh Arora,20,Male,Karnal,Student,16-20,Mango,8.0,Blueberry,9.7,Non-sugar,8.6,High,Strong flavour recall
+NIFTEM-SYN-230,Raghav Ghosh,31,Female,Faridabad,Visitor,26-35,Butterscotch,10.0,Orange,7.4,Non-sugar,8.9,High,Strong flavour recall
+NIFTEM-SYN-231,Anika Saini,22,Male,Bhopal,Student,21-25,Butterscotch,7.4,Orange,7.2,Sugar,7.6,Medium,Balanced sweetness
+NIFTEM-SYN-232,Avni Chauhan,20,Female,Rohtak,Student,16-20,Mango,10.0,Fruit Beer,6.4,Sugar,8.0,High,Premium taste perception
+NIFTEM-SYN-233,Raghav Mishra,31,Female,Bengaluru,Visitor,26-35,Rose,7.2,Lemon,8.6,Sugar,8.3,High,Good summer refreshment
+NIFTEM-SYN-234,Navya Mehta,63,Male,Kolkata,Visitor,51+,Pista,6.3,Blueberry,8.6,Non-sugar,7.6,Medium,Good summer refreshment
+NIFTEM-SYN-235,Ishaan Reddy,20,Male,Rohtak,Student,16-20,Mango,7.6,Lemon,8.9,Sugar,8.4,High,Strong flavour recall
+NIFTEM-SYN-236,Aya Schmidt,39,Female,Berlin,Visitor,36-50,Mango,7.9,Lemon,8.2,Non-sugar,8.3,High,Strong flavour recall
+NIFTEM-SYN-237,Kiara Tiwari,44,Male,Sonipat,Visitor,36-50,Pista,7.3,Orange,5.9,Sugar,6.9,Medium,Creamy mouthfeel
+NIFTEM-SYN-238,Manya Kohli,21,Male,Pune,Student,21-25,Pista,7.7,Jeera,6.5,Non-sugar,6.7,Medium,Premium taste perception
+NIFTEM-SYN-239,Kenji Rossi,42,Male,London,Visitor,36-50,Coffee,7.8,Fruit Beer,5.8,Non-sugar,6.8,Medium,Creamy mouthfeel
+NIFTEM-SYN-240,Leyla Andersson,16,Female,Singapore,Student,16-20,Butterscotch,9.1,Blueberry,7.7,Sugar,8.1,High,Creamy mouthfeel
+NIFTEM-SYN-241,Felix Fernandez,26,Male,Dubai,Student,26-35,Mango,10.0,Fruit Beer,5.1,Sugar,8.0,High,Creamy mouthfeel
+NIFTEM-SYN-242,Nikhil Bhatia,23,Female,Sonipat,Student,21-25,Mango,10.0,Orange,5.9,Sugar,8.0,High,Strong flavour recall
+NIFTEM-SYN-243,Ira Arora,18,Female,Indore,Student,16-20,Mango,8.1,Lemon,10.0,Sugar,9.2,High,Creamy mouthfeel
+NIFTEM-SYN-244,Simran Yadav,36,Female,Panipat,Food Inspector,36-50,Rose,7.4,Lemon,7.7,Non-sugar,8.1,High,Good summer refreshment
+NIFTEM-SYN-245,Navya Iyer,25,Female,Indore,Student,21-25,Coffee,7.1,Blueberry,9.7,Sugar,8.8,High,Good summer refreshment
