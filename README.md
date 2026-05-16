@@ -1,7 +1,7 @@
 # Customer Flavour Preference Analysis — Old Batra Lemon
 ## Project Demo Video
 
-🎥 [Watch NIFTEM Exhibition Demo Video](videos/niftem_demo.mp4)
+🎥 [Watch NIFTEM Exhibition Demo Video](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/b16b5ed1f8a6808ed1b7806cbf50c164d20f8894/WhatsApp%20Video%202026-05-16%20at%2011.50.20.mp4)
 ![Old Batra Lemon Banner](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/f8c3ad7d462a81f0b0038da5b6e935fbd3776ce9/Screenshot%202026-02-21%20163300.png)
 
 ## Project Overview
