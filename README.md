@@ -61,7 +61,7 @@ Old Batra Lemon is a beverage brand with a strong local identity and product rec
 
 ### Product Sample
 
-![Old Batra Lemon Bottle](assets/old_batra_lemon_bottle.png)
+![Old Batra Lemon Bottle](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/395ea0180dc2a6b954cd46504ee169f920d280a3/Screenshot%202026-02-21%20163310.png)
 
 The product analysis focused on customer preference, flavour response, rating behaviour, sugar preference, and purchase intent.
 
