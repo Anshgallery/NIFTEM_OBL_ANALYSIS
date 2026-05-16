@@ -33,7 +33,7 @@ This project helped me connect **business communication, customer behaviour, and
 
 ### Brand Interaction at Exhibition
 
-![Brand Interaction](assets/exhibition_brand_interaction.png)
+![Brand Interaction](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/5828f0ba981dc9a31473b2898ac543a81d9d6981/Screenshot%202026-05-15%20171453.png)
 
 This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled.
 
