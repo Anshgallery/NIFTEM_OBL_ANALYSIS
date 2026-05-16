@@ -1,6 +1,6 @@
 # Customer Flavour Preference Analysis — Old Batra Lemon
 
-![Old Batra Lemon Banner](assets/old_batra_product_banner.png)
+![Old Batra Lemon Banner](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/f8c3ad7d462a81f0b0038da5b6e935fbd3776ce9/Screenshot%202026-02-21%20163300.png)
 
 ## Project Overview
 
