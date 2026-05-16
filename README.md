@@ -39,12 +39,10 @@ This project helped me connect **business communication, customer behaviour, and
 
 This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled.
 
-### Visitor Engagement Session
+### Engagement Session
 
-![Visitor Engagement](assets/visitor_engagement_session.png)
+![Visitor Engagement](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/c23516e932d2c9edfaa1f9f015d7166ca55c094a/Screenshot%202026-05-15%20171443.png)
 
-This image shows the practical side of the project, where customer interaction and feedback collection happened during the exhibition.
----
 
 
 ### Product Sample
