@@ -42,22 +42,8 @@ This image represents my professional interaction environment during the exhibit
 ![Visitor Engagement](assets/visitor_engagement_session.png)
 
 This image shows the practical side of the project, where customer interaction and feedback collection happened during the exhibition.
-
-### Professional Event Presence
-
-![Professional Event Photo](assets/professional_event_photo.png)
-
-This project was not only a technical analysis project. It also involved professional presentation, communication, confidence, and real-time customer handling.
-
 ---
 
-## Brand Context
-
-### Old Batra Lemon
-
-![Old Batra Lemon Logo](assets/old_batra_lemon_logo.png)
-
-Old Batra Lemon is a beverage brand with a strong local identity and product recall. The exhibition provided an opportunity to understand how visitors responded to different product flavours and categories.
 
 ### Product Sample
 
