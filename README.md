@@ -41,7 +41,7 @@ This image represents my professional interaction environment during the exhibit
 
 ### Engagement Session
 
-![Visitor Engagement](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/c23516e932d2c9edfaa1f9f015d7166ca55c094a/Screenshot%202026-05-15%20171443.png)
+![Visitor Engagement]()
 
 
 
@@ -485,7 +485,7 @@ The brand can also consider maintaining both sugar and non-sugar variants to ser
 
 ## LinkedIn Milestone
 
-![LinkedIn Post](assets/linkedin_event_post.png)
+![LinkedIn Post](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/b8cb33d1afe6cc3a22a1a88095a10bb67fa3f0e3/Screenshot%202026-05-15%20171512.png)
 
 This project is connected with my real professional milestone, where I represented Old Batra Lemon at the NIFTEM exhibition and later converted the experience into a data analytics project.
 
