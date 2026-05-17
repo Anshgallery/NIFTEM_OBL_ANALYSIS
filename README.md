@@ -39,10 +39,6 @@ This project helped me connect **business communication, customer behaviour, and
 
 This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled.
 
-### Engagement Session
-
-![Visitor Engagement]()
-
 
 
 ### Product Sample
@@ -52,6 +48,10 @@ This image represents my professional interaction environment during the exhibit
 The product analysis focused on customer preference, flavour response, rating behaviour, sugar preference, and purchase intent.
 
 ---
+
+### Engagement Session
+
+![Visitor Engagement](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/87b9ac3e993982a3dcc78622e37a1b7357bb7ae8/Screenshot%202026-05-15%20171434.png)
 
 ## Dataset Note
 
