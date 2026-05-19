@@ -430,8 +430,9 @@ plt.show()
 ```
 
 ### Insight
+The correlation heatmap shows that overall customer experience has a positive relationship with both milk-based ratings and water-based ratings. Water-based rating shows a slightly stronger correlation with overall experience (0.67) compared to milk-based rating (0.63). This means both product categories contributed to customer satisfaction, with water-based flavours having a slightly higher impact.
+![correlation]()
 
-Correlation analysis helped me understand the relationship between milk rating, water rating, and overall experience rating. A positive relationship shows that better product ratings contribute to better overall customer experience.
 
 ---
 
