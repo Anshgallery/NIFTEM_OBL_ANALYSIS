@@ -1,8 +1,12 @@
 # Customer Flavour Preference Analysis — Old Batra Lemon
 ## Project Demo Video
 
+<<<<<<< HEAD
 🎥 [Watch NIFTEM Exhibition Demo Video](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/b16b5ed1f8a6808ed1b7806cbf50c164d20f8894/WhatsApp%20Video%202026-05-16%20at%2011.50.20.mp4)
 ![Old Batra Lemon Banner](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/f8c3ad7d462a81f0b0038da5b6e935fbd3776ce9/Screenshot%202026-02-21%20163300.png)
+=======
+![Old Batra Lemon Banner](images/obl.png)
+>>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
 
 ## Project Overview
 
@@ -35,15 +39,45 @@ This project helped me connect **business communication, customer behaviour, and
 
 ### Brand Interaction at Exhibition
 
+<<<<<<< HEAD
 ![Brand Interaction](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/5828f0ba981dc9a31473b2898ac543a81d9d6981/Screenshot%202026-05-15%20171453.png)
+=======
+![Brand Interaction](images/INTRACTION%20WITH%20FOOD%20SECURITY%20OFFICER.png)
+>>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
 
 This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled.
 
 
+<<<<<<< HEAD
 
 ### Product Sample
 
 ![Old Batra Lemon Bottle](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/395ea0180dc2a6b954cd46504ee169f920d280a3/Screenshot%202026-02-21%20163310.png)
+=======
+![Visitor Engagement](images/GUIDE.png)
+
+This image shows the practical side of the project, where customer interaction and feedback collection happened during the exhibition.
+
+### Professional Event Presence
+
+![Professional Event Photo](images/INTRACTION.png)
+
+This project was not only a technical analysis project. It also involved professional presentation, communication, confidence, and real-time customer handling.
+
+---
+
+## Brand Context
+
+### Old Batra Lemon
+
+![Old Batra Lemon Logo](images/obl.png)
+
+Old Batra Lemon is a beverage brand with a strong local identity and product recall. The exhibition provided an opportunity to understand how visitors responded to different product flavours and categories.
+
+### Product Sample
+
+![Old Batra Lemon Bottle](images/banta_lemon.png)
+>>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
 
 The product analysis focused on customer preference, flavour response, rating behaviour, sugar preference, and purchase intent.
 
@@ -222,6 +256,10 @@ print("Average Overall Experience:", round(avg_overall_experience, 2))
 ### Insight
 
 This step gives a quick overview of the project by showing total responses and average ratings. These KPIs help understand the overall customer response before moving into deeper analysis.
+![BEST MILK_BASED](images/bestmilk.png)
+![BEST WATER_BASED ](imageS/best_water_based.png)
+![SUGAR VS NON SUGAR](images/sugar_vs_nonsuger.png)
+![CORRELATION](images/correlation.png)
 
 ---
 
