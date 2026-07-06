@@ -39,15 +39,7 @@ This project helped me connect **business communication, customer behaviour, and
 ![Brand Interaction](images/INTRACTION%20WITH%20FOOD%20SECURITY%20OFFICER.png)
 >>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
 
-This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled.
-
-
-<<<<<<< HEAD
-
-### Product Sample
-
-![Old Batra Lemon Bottle](https://github.com/Anshgallery/NIFTEM_OBL_ANALYSIS/blob/395ea0180dc2a6b954cd46504ee169f920d280a3/Screenshot%202026-02-21%20163310.png)
-=======
+This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled
 
 
 This image shows the practical side of the project, where customer interaction and feedback collection happened during the exhibition.
