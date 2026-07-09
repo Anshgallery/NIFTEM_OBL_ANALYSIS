@@ -1,7 +1,7 @@
 # Customer Flavour Preference Analysis — Old Batra Lemon
 
 ![Old Batra Lemon Banner](images/obl.png)
->>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
+(NIFTEM_ANALYSIS)
 
 ## Project Overview
 
@@ -34,10 +34,10 @@ This project helped me connect **business communication, customer behaviour, and
 
 ### Brand Interaction at Exhibition
 
-<<<<<<< HEAD
+
 
 ![Brand Interaction](images/INTRACTION%20WITH%20FOOD%20SECURITY%20OFFICER.png)
->>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
+ (NIFTEM_ANALYSIS)
 
 This image represents my professional interaction environment during the exhibition. It reflects the real business setting where visitor engagement, product explanation, and brand communication were handled
 
@@ -59,7 +59,7 @@ Old Batra Lemon is a beverage brand with a strong local identity and product rec
 ### Product Sample
 
 ![Old Batra Lemon Bottle](images/banta_lemon.png)
->>>>>>> 7a8a144 (NIFTEM_ANALYSIS)
+(NIFTEM_ANALYSIS)
 
 The product analysis focused on customer preference, flavour response, rating behaviour, sugar preference, and purchase intent.
 
