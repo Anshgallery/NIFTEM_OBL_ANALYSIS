@@ -1,5 +1,5 @@
 # Customer Flavour Preference Analysis — Old Batra Lemon
-
+<video src="images/exhibition_video1" controls width="700"></video>
 ![Old Batra Lemon Banner](images/obl.png)
 (NIFTEM_ANALYSIS)
 
